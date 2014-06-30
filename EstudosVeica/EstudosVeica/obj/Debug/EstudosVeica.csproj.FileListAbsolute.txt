@@ -1,0 +1,6 @@
+C:\Projetos\EstudosVeica\EstudosVeica\EstudosVeica\bin\Debug\EstudosVeica.exe.config
+C:\Projetos\EstudosVeica\EstudosVeica\EstudosVeica\bin\Debug\EstudosVeica.exe
+C:\Projetos\EstudosVeica\EstudosVeica\EstudosVeica\bin\Debug\EstudosVeica.pdb
+C:\Projetos\EstudosVeica\EstudosVeica\EstudosVeica\obj\Debug\EstudosVeica.csprojResolveAssemblyReference.cache
+C:\Projetos\EstudosVeica\EstudosVeica\EstudosVeica\obj\Debug\EstudosVeica.exe
+C:\Projetos\EstudosVeica\EstudosVeica\EstudosVeica\obj\Debug\EstudosVeica.pdb
